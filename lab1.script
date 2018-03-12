@@ -1,0 +1,31 @@
+命令稿啟動於 2018年03月12日 下午 10:26:07
+]0;~
+[32mASUS@DESKTOP-S7J6P24 [33m~[0m
+$ whom[Kami;pwd
+ASUS
+/home/ASUS
+]0;~
+[32mASUS@DESKTOP-S7J6P24 [33m~[0m
+$ git config -l\[K
+]0;~
+[32mASUS@DESKTOP-S7J6P24 [33m~[0m
+$ git clone http[K[K[K[Khttps://github.com/john871224/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32mASUS@DESKTOP-S7J6P24 [33m~[0m
+$ git clone https://github.com/john871224/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32mASUS@DESKTOP-S7J6P24 [33m~[0m
+$ git clone https://github.com/john871224/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 4, done.[K
+remote: Compressing objects:  33% (1/3)   [Kremote: Compressing objects:  66% (2/3)   [Kremote: Compressing objects: 100% (3/3)   [Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
+]0;~
+[32mASUS@DESKTOP-S7J6P24 [33m~[0m
+$ exit
+
+命令稿已於 2018年03月12日 下午 10:32:35
+ 完成
