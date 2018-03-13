@@ -1,2 +1,3 @@
-# lab1
-lab1
+打g++ partb.cpp
+./a
+compile完成
